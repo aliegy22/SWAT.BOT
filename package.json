@@ -1,0 +1,15 @@
+{
+  "name": "swat-bot-production",
+  "version": "1.0.0",
+  "description": "SWAT Bot Full Production Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
