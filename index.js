@@ -355,4 +355,4 @@ client.on('interactionCreate', async (interaction) => {
 const formCmd = new SlashCommandBuilder().setName("اثبات-هوية").setDescription("نموذج إثبات الهوية والشفافية لفريق SWAT");
 global.__setupCommands.push(formCmd.toJSON());
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.MTU2NDAxNDg2Mzk1OTcyNDExNA.GjeWpZ.Lt97Nag1vGoihHOQHGec_9F99VPwBusXi_57aw);
